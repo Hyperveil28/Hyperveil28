@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hyperveil28
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning CISSP
-- 💞️ I’m looking to collaborate on anything to get my fee wet.
+- 👀 I’m interested in cybersecurity and data protection and loss mitigation
+- 🌱 I’m currently learning at Code:You (Formerly Code:Louisville)
+- 💞️ I’m looking forward to learning how to use ethical hacking to harden cybersecurity operations via pen testing, and through observing and monitoring connectiions to and from the host.
 - 📫 How to reach me 502-794-2844 or jlgrey28@gmail.com
 - ⚡ Fun fact: I have a PhD in chemistry and I want to start a new concept involving Biotechnology and disease mapping.
 
